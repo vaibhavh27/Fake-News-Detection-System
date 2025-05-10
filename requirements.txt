@@ -1,0 +1,15 @@
+pandas
+numpy
+nltk
+spacy>=3.0.0
+imbalanced-learn
+scikit-learn
+tensorflow>=2.8.0
+transformers>=4.10.0
+torch>=1.8.0
+# argparse is part of the Python standard library for Python 3.2+
+# os is part of the Python standard library
+# re is part of the Python standard library
+# string is part of the Python standard library
+# pickle is part of the Python standard library
+# json is part of the Python standard library (though you switched to pickle for tokenizer)
