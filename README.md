@@ -63,8 +63,9 @@ This project offers two pre-trained fake news detection models, each potentially
 
 ## Project File Structure
 
-Your project directory will be organized as follows. The `sentiment_model_cache` directory and its contents will be **created automatically when you run `download_hf_models.py`**.
+Your project directory will be organized as follows. The `sentiment_model_cache` directory and its contents will be created automatically when you run `download_hf_models.py`.
 
+```text
 your-project-root/
 ├── train_model.py             # Script to train a new fake news model
 ├── run_inference.py           # Script to run predictions using a pre-trained model
