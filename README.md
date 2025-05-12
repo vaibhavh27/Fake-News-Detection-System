@@ -8,12 +8,6 @@ Uses distilBERT for Sentiment Analysis.
 ***[CLICK ME](https://drive.google.com/drive/folders/1Czjijig-OMXdrBfXNBii2d13Wfs3KmUh?usp=sharing)***
 
 
-## Mini Project-IV for B.Tech in Computer Engineering
-   Ramrao Adik Institute of Technology (RAIT), Navi Mumbai
-   May 2025
-
-
-
 ## Building Your Model
 ### Download Requirements
 ```
@@ -233,6 +227,12 @@ You can also place your raw training CSVs in other subdirectories within assets/
 *   **Project Co-ordinator:** Mrs. Shweta Ashtekar
 *   **Head of Department:** Dr. Amarsinh V. Vidhate
 *   **Principal:** Dr. Mukesh D. Patil
+
+---
+
+## Mini Project-IV for B.Tech in Computer Engineering
+   Ramrao Adik Institute of Technology (RAIT), Navi Mumbai
+   May 2025
 
 ---
 
