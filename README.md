@@ -7,6 +7,13 @@ Uses distilBERT for Sentiment Analysis.
 ## Download Links for 2nd Model (Contains Databases, Model, and Tokenizer)
 ***[CLICK ME](https://drive.google.com/drive/folders/1Czjijig-OMXdrBfXNBii2d13Wfs3KmUh?usp=sharing)***
 
+
+## Mini Project-IV for B.Tech in Computer Engineering
+   Ramrao Adik Institute of Technology (RAIT), Navi Mumbai
+   May 2025
+
+
+
 ## Building Your Model
 ### Download Requirements
 ```
@@ -209,6 +216,30 @@ assets/: A directory intended to store all model-related assets:
 model_X/: Subdirectories for each pre-trained model (e.g., model_1/, model_2/). Each should contain the .h5 model file, the .pickle tokenizer file, and optionally the Fake.csv and True.csv files used for training that specific model.
 sentiment_model_cache/: Recommended location for the cached DistilBERT sentiment model. This directory and its distilbert_sentiment/ subfolder are typically created by download_hf_models.py.
 You can also place your raw training CSVs in other subdirectories within assets/ if you are training new models (e.g., assets/custom_data/).
+
+
+## Project Team
+
+*   Ashay Gupta (22CE1157)
+*   Shrutkirti Kadam (22CE1129)
+*   Vaibhav Hingnekar (22CE1121)
+*   Rehan George Varghese (22CE1100)
+
+---
+
+## Supervision & Guidance
+
+*   **Supervisor:** Mrs. Apurva Shinde
+*   **Project Co-ordinator:** Mrs. Shweta Ashtekar
+*   **Head of Department:** Dr. Amarsinh V. Vidhate
+*   **Principal:** Dr. Mukesh D. Patil
+
+---
+
+## Acknowledgements
+
+We thank our guides, the Head of Department, the Principal of RAIT, and everyone who supported the successful completion of this project.
+
 
 License
 ---
