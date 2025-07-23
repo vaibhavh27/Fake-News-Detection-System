@@ -87,7 +87,7 @@ your-project-root/
             ├── pytorch_model.bin (or model.safetensors)
             └── ... (other tokenizer/model files)
 
-## Setup and Installation
+**## Setup and Installation**
 
 Follow these steps to set up the project environment:
 
